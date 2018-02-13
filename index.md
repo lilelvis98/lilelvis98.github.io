@@ -1,4 +1,4 @@
-## Mes Projets :
+## Mes Projets
 
 * Murmure - _C++_ - Twin-stick shooter with procedural generation
 
