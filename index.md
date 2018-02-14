@@ -12,4 +12,6 @@ __Statut :__ Stoppé
 
 __Statut :__ En développement
 
+[Twitter](https://twitter.com/nlpDonaldTrump)
+
 [Github](https://github.com/QTGTech/DJTB-Generator)
